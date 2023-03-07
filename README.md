@@ -1,2 +1,2 @@
-# statistical_rethinking_work
+# Statistical Rethinking
 Collection of notebooks following Statistical Rethinking book
